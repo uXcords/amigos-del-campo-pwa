@@ -13,7 +13,7 @@ export default defineConfig({
 
       manifest: {
         name: "Amigos del Campo",
-        short_name: "Amigos del Campo",
+        short_name: "Amigos Campo",
         description:
           "Frutas y verduras frescas directamente del campo.",
 
