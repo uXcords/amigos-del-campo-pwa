@@ -19,6 +19,7 @@ export default defineConfig({
 
         theme_color: "#205d2d",
         background_color: "#f8f7ef",
+
         display: "standalone",
 
         start_url: "/amigos-del-campo-pwa/",
